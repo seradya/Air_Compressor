@@ -1,0 +1,15 @@
+../Core/Src/NRF24.c:38:22:DelayMicro	16	static
+../Core/Src/NRF24.c:52:9:NRF24_ReadReg	40	static
+../Core/Src/NRF24.c:80:6:NRF24_WriteReg	16	static
+../Core/Src/NRF24.c:98:6:NRF24_ToggleFeatures	16	static
+../Core/Src/NRF24.c:120:6:NRF24_Read_Buf	16	static
+../Core/Src/NRF24.c:136:6:NRF24_Write_Buf	16	static
+../Core/Src/NRF24.c:156:6:NRF24_FlushRX	16	static
+../Core/Src/NRF24.c:174:6:NRF24_FlushTX	16	static
+../Core/Src/NRF24.c:192:6:NRF24L01_RX_Mode	24	static
+../Core/Src/NRF24.c:219:6:NRF24L01_TX_Mode	16	static
+../Core/Src/NRF24.c:237:6:NRF24_Transmit	16	static
+../Core/Src/NRF24.c:259:9:NRF24L01_Send	32	static
+../Core/Src/NRF24.c:298:6:NRF24L01_Receive	24	static
+../Core/Src/NRF24.c:373:6:NRF24L01_IT	24	static
+../Core/Src/NRF24.c:394:6:NRF24_ini	8	static
